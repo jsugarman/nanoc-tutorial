@@ -1,18 +1,14 @@
 {:	data{o:Nanoc::Core::Identifier:
 @type:	full:@stringI"/index.html:ET{:default{
 :rawU: Nanoc::Core::TextualContent[I"F/Users/jsugarman/nanoc_projects/nanoc-tutorial/content/index.html;
-TI"�<h1>A Brand New Nanoc Site</h1>
+TI"�<h1>Joel's Nanoc Site</h1>
 
-<p>You’ve just created a new Nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+<p>A basic static website generate using Nanoc and hosted on Netlify.</p>
 
-<ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
-</ul>
+<p>Can be used for blogging, demoing o=and general experimentation</p>
 
-<p>If you need any help with customizing your Nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
 ;
-T:pre@:_0U;[0I"�<!DOCTYPE HTML>
+T:pre@:_0U;[0I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -24,16 +20,12 @@ T:pre@:_0U;[0I"�<!DOCTYPE HTML>
   </head>
   <body>
     <div id="main">
-      <h1>A Brand New Nanoc Site</h1>
+      <h1>Joel's Nanoc Site</h1>
 
-<p>You’ve just created a new Nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+<p>A basic static website generate using Nanoc and hosted on Netlify.</p>
 
-<ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
-</ul>
+<p>Can be used for blogging, demoing o=and general experimentation</p>
 
-<p>If you need any help with customizing your Nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
 
     </div>
     <div id="sidebar">
