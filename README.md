@@ -5,3 +5,4 @@
 A Static website generated using nanoc and hosted using netfliy. Intended as a trial but possibly for use in blogging
 demoing and experimentation.
 
+The website is hosted at https://sugarmans-blog.netlify.app/
