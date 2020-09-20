@@ -1,6 +1,9 @@
 # Default location for output defined in config.yaml
 output/
+/output/**/*
 # Temporary file directory
 tmp/
+/tmp/**/*
+
 # Crash Log
 crash.log
